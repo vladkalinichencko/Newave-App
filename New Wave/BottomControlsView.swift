@@ -2,8 +2,6 @@
 //  BottomControlsView.swift
 //  New Wave
 //
-//  Created by Владислав Калиниченко on 02.11.2025.
-//
 
 import SwiftUI
 
